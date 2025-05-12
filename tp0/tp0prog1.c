@@ -1,9 +1,9 @@
-/*---------------------------------------------------------------------------
-  Source file : tp0prog1.c
-  Author      : Khaled HAOUET
-  Class       : L1-GE4
-  Brief       : First program using C language
------------------------------------------------------------------------------*/
+/** ---------------------------------------------------------------------------
+  @Source file : tp0prog1.c
+  @Author      : Khaled HAOUET
+  @Brief       : First program using C language
+  @description :
+  */
 
 /* Inclusion of standard libraries */
 /* stdio.h is a header file        */
