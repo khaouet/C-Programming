@@ -1,6 +1,9 @@
 
+
+
+
 /**
-Exercice 1
+Exercice
         1. Définir la structure Etudiant contenant les champs/membres suivant :
             nom : le nom de l’étudiant
             prenom : le prénom de l’étudiant
